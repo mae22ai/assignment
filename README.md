@@ -10,15 +10,17 @@
 ### 3. fork한 저장소를 자신의 컴퓨터로 clone하고, 해당 폴더로 이동하기
 - 2번에서 복사한 주소를 붙여 넣으면 돼
 ```
-git clone <https://github.com/{본인 아이디}/{저장소 아이디}.git>
-cd {저장소 아이디}
+pwd #현재 디렉토리 위치 확인 (present working directory)
+cd #디렉토리 변경 (change directory)
+git clone <https://github.com/{본인 아이디}/{레포지토리 이름}.git>
 ```
-여기서 `cd`는 `change directory` 즉 현재 내가 있는 디렉토리(폴더) 위치를 {저장소 아이디} 폴더로 옮기겠다는 뜻이야
+여기서 `cd`는 `change directory` 즉 현재 내가 있는 디렉토리(폴더) 위치를 {레포지토리 이름} 폴더로 옮기겠다는 뜻이야
 즉 예를 들면
 ```
-git clone https://github.com/neulbokim/mae22ai.git
-cd mae22ai
+cd /Users/hyeonseokim_macbookpro/Desktop/서강대학교/2025/2025년\ 1학기/AI인문융합LAB/repos
+git clone https://github.com/neulbokim/assignment.git
 ```
+이렇게 하면 내가 관리하고 싶은 'repos'라는 디렉토리에서 관리할 수 있게 돼!!
 
 ## 📌 과제 제출 때마다 하는 과정
 ### 1. 본인 개인별 원격 저장소의 레포지토리에 들어가서 레포지토리 동기화하기
