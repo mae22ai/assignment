@@ -1,7 +1,7 @@
 ## 📌 한 번만 하면 되는 과정
 ### 1. 본인의 저장소로 fork 하기
 - 팀의 원격 저장소를 개인별 원격 저장소에 복사하는 과정이라고 생각하면 돼.
-- 지금은 mae22ai/assignment에 있지만, fork하면 neulbokim/mae22ai/assignment에서 확인할 수 있어!
+- 지금은 mae22ai/assignment에 있지만, fork하면 neulbokim/assignment에서 확인할 수 있어!
 
 ### 2. fork한 저장소로 이동 후 저장소 주소를 복사하기
 - 자기 개인별 원격 저장소를 개인별 로컬 저장소에 clone하기 위한 거야
