@@ -39,8 +39,10 @@ git clone https://github.com/neulbokim/assignment.git
 ## 📌 과제 제출 때마다 하는 과정
 ### 1. 본인 개인별 원격 저장소의 레포지토리에 들어가서 레포지토리 동기화하기
 -  neulbokim/mae22ai/assignment 에 들어가서 `Sync-fork`=> `Update branch`누르기
+
+### 2. 과제 하기 전에 VSCode 터미널(bash)에서 `git pull` 명령어 입력하기
   
-### 2. 과제를 완성하고 ctrl+s 눌러서 모두 저장한 후, `add`, `commit`, `push` 명령어로 본인의 원격 저장소에 push하기
+### 3. 과제를 완성하고 ctrl+s 눌러서 모두 저장한 후, `add`, `commit`, `push` 명령어로 본인의 원격 저장소에 push하기
 ```bash
 # 변경된 파일 확인
 git status 
@@ -64,7 +66,7 @@ git commit -m "[001-050] 김현서 과제 제출"
 git push
 ```
 
-### 3. Pull Requests 하기
+### 4. Pull Requests 하기
 - `pull request` 를 보낼 때 아래의 양식 지켜서 보내기!
   ```
   pr 제목: [001-050] 김현서 과제 제출
